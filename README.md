@@ -50,7 +50,8 @@ Our data pipeline is trying to upload the dataset into the GCP and Google Bigque
 The content of the Data Pipeline
 =================================
 
-[Blank diagram.pdf](https://github.com/VenkyGitRep/MLOps_Project_Scoping/files/14593298/Blank.diagram.pdf)
+![Blank diagram](https://github.com/ElovefishW/MLOps_Project_Scoping/assets/145687596/148f07e0-14b6-4a34-926b-bd003dc20510)
+
 
 
 The Airflow data pipeline
